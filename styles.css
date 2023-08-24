@@ -8,6 +8,8 @@ h1, h2 {
 
 h1 {
     font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
 }
 
 h2 {
@@ -64,12 +66,24 @@ a {
     color: black;
 }
 
+.address {
+    margin-bottom: 5px;
+}
+
+
 /* FOOTER */
 footer {
     font-size: 14px;
 }
 
 a:visited {
-    color: grey;
+    color: black;
 }
 
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: brown;
+}
