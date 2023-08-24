@@ -68,3 +68,8 @@ a {
 footer {
     font-size: 14px;
 }
+
+a:visited {
+    color: grey;
+}
+
