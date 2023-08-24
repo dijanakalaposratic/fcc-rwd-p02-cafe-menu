@@ -60,6 +60,10 @@ hr {
     margin-top: 25px;
 }
 
+a {
+    color: black;
+}
+
 /* FOOTER */
 footer {
     font-size: 14px;
